@@ -27,29 +27,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ConsumeFood.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/ConsumeFood.cs">
+      <file leaf-file-name="ScaleObject.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/ScaleObject.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="83" lean-forward="false" selection-start-line="14" selection-start-column="83" selection-end-line="14" selection-end-column="83" />
+            <state relative-caret-position="418">
+              <caret line="22" column="29" lean-forward="true" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
               <folding>
-                <marker date="1507904465536" expanded="true" signature="60:460" ph="{...}" />
-                <marker date="1507904465536" expanded="true" signature="136:202" ph="{...}" />
-                <marker date="1507904465536" expanded="true" signature="244:456" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WeightLoss.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/WeightLoss.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="27" lean-forward="false" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
-              <folding>
-                <marker date="1507904378837" expanded="true" signature="59:401" ph="{...}" />
-                <marker date="1507904378837" expanded="true" signature="135:201" ph="{...}" />
-                <marker date="1507904378837" expanded="true" signature="240:399" ph="{...}" />
+                <marker date="1508222607183" expanded="true" signature="60:570" ph="{...}" />
+                <marker date="1508222607183" expanded="true" signature="136:234" ph="{...}" />
+                <marker date="1508222607183" expanded="true" signature="258:307" ph="{...}" />
+                <marker date="1508222607183" expanded="true" signature="355:494" ph="{...}" />
+                <marker date="1508222607183" expanded="true" signature="522:568" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -62,9 +50,8 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Scripts/ThirdPersonUserControl.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/WeightLoss.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Shaders/BMI.shader" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ConsumeFood.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ScaleObject.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -73,6 +60,7 @@
         <option value="$PROJECT_DIR$/Assets/Shaders/BMI.shader" />
         <option value="$PROJECT_DIR$/Assets/Scripts/WeightLoss.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ConsumeFood.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ScaleObject.cs" />
       </list>
     </option>
   </component>
@@ -223,11 +211,14 @@
       <workItem from="1507808077155" duration="1450000" />
       <workItem from="1507885469818" duration="7664000" />
       <workItem from="1507902772443" duration="2026000" />
+      <workItem from="1508186368427" duration="474000" />
+      <workItem from="1508222472173" duration="46000" />
+      <workItem from="1508222592547" duration="620000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13412000" />
+    <option name="totallyTimeSpent" value="14552000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -277,6 +268,75 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Assets/Shaders/BMI.shader">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="4" lean-forward="false" selection-start-line="1" selection-start-column="4" selection-end-line="27" selection-end-column="0" />
+          <folding>
+            <marker date="1507903919227" expanded="true" signature="20:661" ph="{...}" />
+            <marker date="1507903919227" expanded="true" signature="34:139" ph="{...}" />
+            <marker date="1507903919227" expanded="true" signature="154:633" ph="{...}" />
+            <marker date="1507903919227" expanded="true" signature="171:622" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ScaleObject.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="30" lean-forward="false" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+          <folding>
+            <marker date="1508222607183" expanded="true" signature="60:570" ph="{...}" />
+            <marker date="1508222607183" expanded="true" signature="136:234" ph="{...}" />
+            <marker date="1508222607183" expanded="true" signature="258:307" ph="{...}" />
+            <marker date="1508222607183" expanded="true" signature="355:494" ph="{...}" />
+            <marker date="1508222607183" expanded="true" signature="522:568" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Shaders/BMI.shader">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="4" lean-forward="false" selection-start-line="1" selection-start-column="4" selection-end-line="27" selection-end-column="0" />
+          <folding>
+            <marker date="1507903919227" expanded="true" signature="20:661" ph="{...}" />
+            <marker date="1507903919227" expanded="true" signature="34:139" ph="{...}" />
+            <marker date="1507903919227" expanded="true" signature="154:633" ph="{...}" />
+            <marker date="1507903919227" expanded="true" signature="171:622" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ScaleObject.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="30" lean-forward="false" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+          <folding>
+            <marker date="1508222607183" expanded="true" signature="60:570" ph="{...}" />
+            <marker date="1508222607183" expanded="true" signature="136:234" ph="{...}" />
+            <marker date="1508222607183" expanded="true" signature="258:307" ph="{...}" />
+            <marker date="1508222607183" expanded="true" signature="355:494" ph="{...}" />
+            <marker date="1508222607183" expanded="true" signature="522:568" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Shaders/BMI.shader">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="4" lean-forward="false" selection-start-line="1" selection-start-column="4" selection-end-line="27" selection-end-column="0" />
+          <folding>
+            <marker date="1507903919227" expanded="true" signature="20:661" ph="{...}" />
+            <marker date="1507903919227" expanded="true" signature="34:139" ph="{...}" />
+            <marker date="1507903919227" expanded="true" signature="154:633" ph="{...}" />
+            <marker date="1507903919227" expanded="true" signature="171:622" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ConsumeFood.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/WeightLoss.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Shaders/BMI.shader">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="16" column="24" lean-forward="false" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
           <folding>
@@ -288,18 +348,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ConsumeFood.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="30" lean-forward="false" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
-          <folding>
-            <marker date="1507904465536" expanded="true" signature="60:460" ph="{...}" />
-            <marker date="1507904465536" expanded="true" signature="136:202" ph="{...}" />
-            <marker date="1507904465536" expanded="true" signature="244:456" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ConsumeFood.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Shaders/BMI.shader">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
@@ -313,18 +362,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ConsumeFood.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="5" lean-forward="false" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-          <folding>
-            <marker date="1507904465536" expanded="true" signature="60:460" ph="{...}" />
-            <marker date="1507904465536" expanded="true" signature="136:202" ph="{...}" />
-            <marker date="1507904465536" expanded="true" signature="244:456" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ConsumeFood.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Scripts/ThirdPersonUserControl.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -345,18 +383,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ConsumeFood.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="15" column="27" lean-forward="false" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
-          <folding>
-            <marker date="1507904465536" expanded="true" signature="60:460" ph="{...}" />
-            <marker date="1507904465536" expanded="true" signature="136:202" ph="{...}" />
-            <marker date="1507904465536" expanded="true" signature="244:456" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ConsumeFood.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Shaders/BMI.shader">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
@@ -371,18 +398,8 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayerMovement.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/WeightLoss.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="27" lean-forward="false" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
-          <folding>
-            <marker date="1507904378837" expanded="true" signature="59:401" ph="{...}" />
-            <marker date="1507904378837" expanded="true" signature="135:201" ph="{...}" />
-            <marker date="1507904378837" expanded="true" signature="240:399" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/WeightLoss.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ConsumeFood.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Shaders/BMI.shader">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
@@ -396,14 +413,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ConsumeFood.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ScaleObject.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="83" lean-forward="false" selection-start-line="14" selection-start-column="83" selection-end-line="14" selection-end-column="83" />
+        <state relative-caret-position="418">
+          <caret line="22" column="29" lean-forward="true" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
           <folding>
-            <marker date="1507904465536" expanded="true" signature="60:460" ph="{...}" />
-            <marker date="1507904465536" expanded="true" signature="136:202" ph="{...}" />
-            <marker date="1507904465536" expanded="true" signature="244:456" ph="{...}" />
+            <marker date="1508222607183" expanded="true" signature="60:570" ph="{...}" />
+            <marker date="1508222607183" expanded="true" signature="136:234" ph="{...}" />
+            <marker date="1508222607183" expanded="true" signature="258:307" ph="{...}" />
+            <marker date="1508222607183" expanded="true" signature="355:494" ph="{...}" />
+            <marker date="1508222607183" expanded="true" signature="522:568" ph="{...}" />
           </folding>
         </state>
       </provider>
